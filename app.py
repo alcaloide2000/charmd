@@ -85,7 +85,7 @@ card3 = dmc.Card(
         dmc.CardSection(
             dmc.Anchor(
                 dmc.Image(
-                    src="https://i.im.ge/2024/01/11/3xar3p.your-project-filler.png",
+                    src="https://i.im.ge/2024/01/23/YVJpED.thomas.png",
                     alt="dash-app",
                 ),
                 href="https://charming-data.com/",
