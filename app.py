@@ -88,7 +88,7 @@ card3 = dmc.Card(
                     src="https://i.im.ge/2024/01/23/YVJpED.thomas.png",
                     alt="dash-app",
                 ),
-                href="https://charming-data.com/",
+               href="https://theec5.onrender.com/",
                 target="_blank"
             ),
         ),
